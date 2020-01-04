@@ -1,0 +1,28 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "koa 入门",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liugezhou/koa.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "liugezhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liugezhou/koa/issues"
+  },
+  "homepage": "https://github.com/liugezhou/koa#readme",
+  "dependencies": {
+    "koa": "2.0.0",
+    "koa-router": "7.0.0",
+    "koa-bodyparser": "3.2.0"
+  }
+}
