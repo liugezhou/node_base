@@ -3,7 +3,7 @@
 var fs = require('fs')
 
 // 获取文件大小、创建时间等信息
-fs.stat('sample.txt', function(err, data){
+fs.stat('sample.txt', function(err, stat){
     if(err) {
         console.log(err);
     } else{
