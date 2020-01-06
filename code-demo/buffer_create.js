@@ -11,3 +11,18 @@ var buf2 = new Buffer([10,20,30,40,50]);
  // 语法：buf.write(string[,offset[,length]][,encoding])
  len = buf1.write('六个周啊');
  console.log(len);
+
+ // 从缓冲区读取数据
+ // 语法： buf.toString([encoding [,start [,end]]])
+ var buf4 = new Buffer(26);
+for (var i = 0; i<26; i++) {
+    buf4[i] = i +97;
+}
+console.log(buf4.toString('utf-8'));
+
+// 将Buffer转换为json对象
+// 语法： buf.JSON()
+var buf5 = new Buffer('www.w3cschool.cn');
+var json = buf5.toJSON();
+
+console.log(json);
