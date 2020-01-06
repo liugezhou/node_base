@@ -1,2 +1,4 @@
-*/node_modules
-*/package-lock.json
+basic/demo/node_modules
+koa/node_modules
+basic/demo/package-lock.json
+koa/package-lock.json
