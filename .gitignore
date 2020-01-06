@@ -1,4 +1,5 @@
-basic/demo/node_modules
-koa/node_modules
 basic/demo/package-lock.json
 koa/package-lock.json
+use-nunjucks/package-lock.json
+view-koa/package-lock.json
+node_modules/
