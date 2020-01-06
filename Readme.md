@@ -1,9 +1,5 @@
-## 来源：https://www.liaoxuefeng.com/wiki/1022910821149312/1023025235359040
+## base -- 廖雪峰的一篇node教程课
 
-## basic目录--在学习本教程中的一些示例代码
+## code-demo -- 一些node代码片段
 
-## koa目录--是根据教程学习过程中的koa代码。
-
-## use-nunjucks -- Nunjucks模版引擎.
-
-## view-koa -- 把koa2、Nunjucks整合起来.
+## primary -- [node入门](https://www.nodebeginner.org/index-zh-cn.html)。  
