@@ -10,6 +10,7 @@
   "author": "liugezhou",
   "license": "MIT",
   "dependencies": {
+    "colors": "^1.4.0",
     "formidable": "^1.2.1"
   }
 }
