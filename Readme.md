@@ -5,3 +5,5 @@
 ## primary -- [node入门教程](https://www.nodebeginner.org/index-zh-cn.html)。  
 
 ## w3c -- [W3Cschool-node.js教程](https://www.w3cschool.cn/nodejs/node-js-tutorial.html)
+
+## inspect -- [nodejs调试入门](https://www.imooc.com/learn/1093)
